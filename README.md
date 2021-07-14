@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @benlawson92
+- 👀 I’m interested in oop
+- 🌱 I’m currently learning Python
